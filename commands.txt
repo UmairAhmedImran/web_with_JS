@@ -1,0 +1,6 @@
+ALL THE COMMANDS USED IN THIS PROJECT ARE LISTED HERE IN ORDER
+
+1. In Server directory run> npm init --y
+
+2. To install express js, In same directory run> npm i express
+
